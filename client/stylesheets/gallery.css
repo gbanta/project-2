@@ -44,7 +44,11 @@ button {
   color: lime;
   padding: 2px 6px 2px 6px;
   border-radius: 10px;
-  border: 1px solid #CCCCCC;
+  border: 1px solid #cccccc;
+}
+
+input {
+  font-size: 18px;
 }
 
 #lead-photo {
